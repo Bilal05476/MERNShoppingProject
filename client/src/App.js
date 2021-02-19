@@ -1,9 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import AppNavbar from './components/AppNavbar';
+import ShoppingList from './components/ShoppingList';
+import './App.css';
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <AppNavbar />
+      <ShoppingList />
     </div>
   );
 }
