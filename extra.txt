@@ -1,0 +1,3 @@
+"@babel/runtime": "7.0.0-beta.55",
+"@babel/runtime"
+window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
