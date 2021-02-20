@@ -1,4 +1,4 @@
-// import {v4 as uuid} from 'uuid';
+
 import {ITEMS_LOADING, DELETE_ITEM, GET_ITEMS, ADD_ITEM} from '../actions/types';
 
 const initialState = {
